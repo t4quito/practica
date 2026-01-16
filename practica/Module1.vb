@@ -9,6 +9,10 @@
 
     End Sub
 
+    Public Function Suma(num1 As Integer, num2 As Integer) As Integer
+        Return num1 + num2
+    End Function
+
     Public Class Persona
 
         Public Property Nombre() As String
