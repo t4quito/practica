@@ -5,7 +5,7 @@
         'Diccionarios
         Dim diccionarioAlumno As Dictionary(Of Integer, Alumno)
 
-
+        Console.Write("--- Menu Calculator ---")
 
     End Sub
 
